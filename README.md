@@ -1,3 +1,41 @@
+# World Countries Info 🌍
+
+A responsive and interactive web application to explore information about countries around the world.  
+Users can search for countries by region and access key details such as:
+
+- 🌐 **Country Name & Capital**  
+- 💱 **Currency**  
+- 🧍 **Population**  
+- 🏛 **Region & Subregion**  
+- 🕊 **Religion**  
+
+## Features  
+- 🔍 **Region-wise Search**: Quickly filter countries based on their region.  
+- 📊 **Country Details**: View population, currency, religion, and more.  
+- 🖥 **Responsive Design**: Works seamlessly on all devices.  
+- ⚡ **Fast & Simple**: Lightweight and easy to use.  
+
+## Tech Stack  
+- **Frontend**: React.js / HTML / CSS / JavaScript  
+- **API**: REST Countries API  
+- **Styling**: Tailwind CSS / Bootstrap (if used)  
+
+## How to Run Locally  
+```bash
+# Clone the repository
+git clone https://github.com/your-username/world-countries-info.git
+
+# Navigate into the folder
+cd world-countries-info
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
